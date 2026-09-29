@@ -1,3 +1,4 @@
+//check whether a number is armstrong number or not.
 #include <iostream>
 #include <cmath>
 using namespace std;
